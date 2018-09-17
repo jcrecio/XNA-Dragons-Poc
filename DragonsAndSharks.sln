@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DragonsAndSharks", "DragonsAndSharks\DragonsAndSharks\DragonsAndSharks.csproj", "{CDAC7768-6EEC-4E1C-9489-91D05A849A02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DragonsAndSharksContent", "DragonsAndSharks\DragonsAndSharksContent\DragonsAndSharksContent.contentproj", "{7BFD343F-6F8E-4C1F-A46D-B27F400F65D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDAC7768-6EEC-4E1C-9489-91D05A849A02}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{CDAC7768-6EEC-4E1C-9489-91D05A849A02}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{CDAC7768-6EEC-4E1C-9489-91D05A849A02}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{CDAC7768-6EEC-4E1C-9489-91D05A849A02}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{CDAC7768-6EEC-4E1C-9489-91D05A849A02}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{CDAC7768-6EEC-4E1C-9489-91D05A849A02}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{7BFD343F-6F8E-4C1F-A46D-B27F400F65D3}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{7BFD343F-6F8E-4C1F-A46D-B27F400F65D3}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
